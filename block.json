@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "network": "udp",
+      "port": [443]
+    },
+    {
+      "network": "udp",
+      "port_range": [3478, 3480]
+    },
+    {
+      "network": "udp",
+      "port_range": [5349, 5350]
+    },
+    {
+      "domain_keyword": [
+        "stun",
+        "turn",
+        "pcdn",
+        "p2p",
+        "peer",
+        "msedge"
+      ],
+      "domain_suffix": [
+        "baidupcs.com",
+        "xunlei.com",
+        "cdn.qq.com",
+        "cdn.letv.com",
+        "microsoft.com",
+        "windowsupdate.com"
+      ],
+      "ip_cidr": [
+        "103.11.9.33/32"
+      ]
+    }
+  ]
+}

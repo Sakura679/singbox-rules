@@ -1,14 +1,16 @@
 {
   "version": 1,
   "rules": [
-    "domain_keyword": [
-      "bilibili",
-      "bilicdn",
-      "biliapi"
-    ],
-    "domain": [
-      "upos-sz-mirrorcosov.bilivideo.com",
-      "upos-sz-mirrorcosb.bilivideo.com"
-    ]
+    {
+      "domain_keyword": [
+        "bilibili",
+        "bilicdn",
+        "biliapi"
+      ],
+      "domain": [
+        "upos-sz-mirrorcosov.bilivideo.com",
+        "upos-sz-mirrorcosb.bilivideo.com"
+      ]
+    }
   ]
 }

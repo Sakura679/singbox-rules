@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_keyword": [
+        "tiktok",
+        "chatgpt",
+        "openai",
+        "netflix",
+        "youtube",
+        "googlevideo"
+      ],
+      "domain_suffix": [
+        "bilivideo.com"
+      ]
+    }
+  ]
+}

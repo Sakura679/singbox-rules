@@ -3,19 +3,15 @@
   "rules": [
     {
       "network": "udp",
-      "port": [
-        443
-      ]
-    },
-    {
-      "network": "udp",
       "port_range": [
         "3478:3480"
       ]
     },
     {
       "network": "udp",
-      "port_range": "5349:5350"
+      "port_range": [
+        "5349:5350"
+      ]
     },
     {
       "domain_keyword": [

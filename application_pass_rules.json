@@ -5,7 +5,14 @@
       "process_name": [
         "SeasunGame.exe"
       ],
-      "package_name": []
+      "package_name": [
+        "com.dragonli.projectsnow.lhm",
+        "com.tencent.tmgp.jx3m"
+      ],
+      "domain_suffix": [
+        "xoyocdn.com",
+        "xoyo.com"
+      ]
     }
   ]
 }

@@ -3,15 +3,15 @@
   "rules": [
     {
       "domain_keyword": [
+    //    "youtube",
+    //    "googlevideo",
         "tiktok",
         "chatgpt",
         "openai",
-        "netflix",
-        "youtube",
-        "googlevideo"
+        "netflix"
       ],
       "domain_suffix": [
-        "bilivideo.com"
+   //     "bilivideo.com"
       ]
     }
   ]

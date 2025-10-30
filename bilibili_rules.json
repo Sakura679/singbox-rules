@@ -10,6 +10,9 @@
       "domain": [
         "upos-sz-mirrorcosov.bilivideo.com",
         "upos-sz-mirrorcosb.bilivideo.com"
+      ],
+      "domain_suffix": [
+        "bilivideo.com"
       ]
     }
   ]

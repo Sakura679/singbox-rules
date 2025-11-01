@@ -7,13 +7,12 @@
       ],
       "package_name": [
         "com.dragonli.projectsnow.lhm",
-        "com.tencent.tmgp.jx3m",
-        "com.xs.fm",
-        "com.dragon.read"
+        "com.tencent.tmgp.jx3m"
       ],
       "domain_suffix": [
         "xoyocdn.com",
-        "xoyo.com"
+        "xoyo.com",
+        "fqnovelvod.com"
       ]
     }
   ]

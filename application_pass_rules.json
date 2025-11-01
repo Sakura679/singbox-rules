@@ -10,11 +10,8 @@
         "com.tencent.tmgp.jx3m"
       ],
       "domain_suffix": [
-        "cbjq.xoyocdn.com",
-        "cbjq-serverlist.xoyocdn.com",
-        "js2sdk.xoyo.com",
-        "xg-flow.xoyo.com",
-        "fqnovelvod.com"
+        "xoyocdn.com",
+        "xoyo.com",
       ]
     }
   ]

@@ -2,16 +2,16 @@
   "version": 1,
   "rules": [
     {
+      "domain_suffix": [
+        "xoyocdn.com",
+        "xoyo.com"
+      ],
       "process_name": [
         "SeasunGame.exe"
       ],
       "package_name": [
         "com.dragonli.projectsnow.lhm",
         "com.tencent.tmgp.jx3m"
-      ],
-      "domain_suffix": [
-        "xoyocdn.com",
-        "xoyo.com"
       ]
     }
   ]

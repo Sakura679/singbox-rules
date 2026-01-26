@@ -25,7 +25,8 @@
         "38.47.100.214/32"
       ],
       "domain": [
-        "s.tiepi.top"
+        "s.tiepi.top",
+        "vip.lz-cdn14.com"
       ]
     }
   ]

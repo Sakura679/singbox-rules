@@ -2,17 +2,10 @@
   "version": 4,
   "rules": [
     {
-      "domain_keyword": [
-        "bilibili",
-        "bilicdn",
-        "biliapi"
-      ],
-      "domain": [
-        "upos-sz-mirrorcosov.bilivideo.com",
-        "upos-sz-mirrorcosb.bilivideo.com"
-      ],
       "domain_suffix": [
-        "bilivideo.com"
+        "bilibili.com",
+        "biliapi.net",
+        "hdslb.com"
       ]
     }
   ]

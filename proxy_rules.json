@@ -6,7 +6,11 @@
         "ryplay",
         "libretv",
         "acck",
-        "akile"
+        "akile",
+        "dytt-cinema"
+      ],
+      "domain_suffix": [
+        "neko.mo.cn"
       ]
     }
   ]

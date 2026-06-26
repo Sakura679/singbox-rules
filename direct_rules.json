@@ -3,33 +3,18 @@
   "rules": [
     {
       "domain_keyword": [
-        "ntdm",
-        "tyys",
-        "dytt",
         "bf8bf",
-        "360zyx",
-        "rsfcxq",
-        "heimuer",
-        "pvheva",
-        "jisu",
-        "modu",
-        "oyzns",
         "mzm",
         "wlcdn",
-        "ly166",
-        "wyfkg",
-        "bvvvvvvv7f",
-        "fengbao",
-        "lmm50",
         "apple"
       ],
-      "ip_cidr": [
-        "38.47.100.214/32"
+      "domain_suffix": [
+        "bilivideo.com",
+        "bilivideo.cn",
+        "upos"
       ],
-      "domain": [
-        "s.tiepi.top",
-        "vip.lz-cdn14.com",
-        "c1.rrcdnbf4.com"
+      "network": [
+        "udp"
       ]
     }
   ]

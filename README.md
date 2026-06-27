@@ -1,8 +1,4 @@
 ```
-https://raw.githubusercontent.com/Sakura679/singbox-rules/main/apppass_rules.json
-```
-
-```
 https://raw.githubusercontent.com/Sakura679/singbox-rules/main/bilibili_rules.json
 ```
 

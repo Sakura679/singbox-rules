@@ -2,7 +2,7 @@
   "version": 5,
   "rules": [
     {
-      "domain_suffix": [
+      "domain_keyword": [
         "bilibili.com",
         "biliapi.net",
         "hdslb.com"

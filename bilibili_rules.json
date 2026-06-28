@@ -1,8 +1,8 @@
 {
-  "version": 5,
+  "version": 4,
   "rules": [
     {
-      "domain_keyword": [
+      "domain_suffix": [
         "bilibili.com",
         "biliapi.net",
         "hdslb.com"

@@ -27,8 +27,7 @@
         "baidupcs.com",
         "xunlei.com",
         "cdn.qq.com",
-        "cdn.letv.com",
-        "windowsupdate.com"
+        "cdn.letv.com"
       ],
       "ip_cidr": [
         "103.11.9.33/32"

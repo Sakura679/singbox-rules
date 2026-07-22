@@ -3,6 +3,8 @@
   "rules": [
     {
       "domain_suffix": [
+        "bilivideo.com",
+        "bilivideo.cn",
         "bilibili.com",
         "biliapi.net",
         "hdslb.com"

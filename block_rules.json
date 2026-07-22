@@ -14,6 +14,9 @@
       ]
     },
     {
+      "domain": [
+        "httpdns.bilivideo.com"
+      ],
       "domain_keyword": [
         "stun",
         "turn",
@@ -27,7 +30,10 @@
         "baidupcs.com",
         "xunlei.com",
         "cdn.qq.com",
-        "cdn.letv.com"
+        "cdn.letv.com",
+        "mcdn.bilivideo.com",
+        "mcdn.bilivideo.cn",
+        "szbdyd.com"
       ],
       "ip_cidr": [
         "103.11.9.33/32"

@@ -1,5 +1,17 @@
 {
   "version": 4,
   "rules": [
+    {
+      "domain_keyword": [
+        "ryiplay",
+        "libretv",
+        "acck",
+        "akile",
+        "dytt-cinema"
+      ],
+      "domain_suffix": [
+        "neko.mo.cn"
+      ]
+    }
   ]
 }
